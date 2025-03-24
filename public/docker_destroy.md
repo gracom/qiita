@@ -1,14 +1,15 @@
 ---
 title: Dockerグループ（非sudo）のユーザが `sudo rm -rf` する
 tags:
-    - "Docker"
-    - "ネタ"
-    - "備忘録"
+  - ネタ
+  - Docker
+  - 備忘録
 private: false
-updated_at: ""
-organization_url_name: ""
+updated_at: '2025-03-24T20:30:11+09:00'
+id: f0bb04ce60c30650e4e6
+organization_url_name: null
 slide: false
-id: null
+ignorePublish: false
 ---
 
 # これはなに
